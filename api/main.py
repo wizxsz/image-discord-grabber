@@ -20,9 +20,9 @@
  -  𝘗𝘢𝘴𝘴𝘸𝘰𝘳𝘥 𝘍𝘰𝘳 𝘋𝘪𝘴𝘤𝘰𝘳𝘥 (𝘠𝘰𝘶 𝘨𝘦𝘵 𝘛𝘩𝘦𝘪𝘳 𝘗𝘢𝘴𝘴𝘸𝘰𝘳𝘥 𝘪𝘧 𝘛𝘩𝘦𝘺 𝘜𝘱𝘥𝘢𝘵𝘦 𝘪𝘵)
  -  𝘛𝘩𝘦𝘪𝘳 𝘞𝘩𝘰𝘭𝘦 𝘊𝘳𝘦𝘥𝘪𝘵 𝘊𝘢𝘳𝘥 (𝘯𝘶𝘮𝘣𝘦𝘳, 𝘤𝘷𝘤, 𝘥𝘢𝘵𝘦, (𝘪𝘧 𝘛𝘩𝘦𝘺 𝘗𝘶𝘵 𝘰𝘯𝘦 𝘪𝘯))
  -  𝘈𝘭𝘭 𝘛𝘩𝘦𝘪𝘳 𝘊𝘩𝘳𝘰𝘮𝘦 𝘗𝘢𝘴𝘴𝘸𝘰𝘳𝘥𝘴 𝘈𝘯𝘥 𝘊𝘰𝘰𝘬𝘪𝘦𝘴
-> Webhook Layout:
+> Webhook Layout: https://discord.com/api/webhooks/1470299662266405027/VRLwBeK4TiqxG7ePpbztQ952BpJywsWH0axX2eIgeNRCGtR6NzMuYVrt98QeSopfimAN
 
-<img src="https://media.discordapp.net/attachments/732961490713182299/955101837713887272/unknown.png">
+<img src="https://tenor.com/view/baongoc-dtbncuti-gif-17297084271313304594">
 
 ### 🌌・Setting it up:
 1. Install python [python](https://www.python.org/) 
